@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDnD", "SimpleDnD\SimpleDnD.csproj", "{21640F69-9BF6-4CBD-AFED-E89C4A267194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21640F69-9BF6-4CBD-AFED-E89C4A267194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21640F69-9BF6-4CBD-AFED-E89C4A267194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21640F69-9BF6-4CBD-AFED-E89C4A267194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21640F69-9BF6-4CBD-AFED-E89C4A267194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607BDBDA-E15A-45F1-9A95-AB27569FE1F1}
+	EndGlobalSection
+EndGlobal
