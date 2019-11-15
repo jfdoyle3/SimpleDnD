@@ -6,7 +6,7 @@ namespace SimpleDnD
 {
     class Die
     {
-        public int Faces;
+        private int Faces;
         public int FaceUp;
        
         public Die(int faces)
